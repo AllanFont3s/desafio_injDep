@@ -39,10 +39,6 @@ public class DesafioInjDepApplication implements CommandLineRunner {
         System.out.println("Valor total: " + orderService.total(order) );
 
 
-
-
-
-
         sc.close();
     }
 }
